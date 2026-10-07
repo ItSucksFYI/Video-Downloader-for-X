@@ -279,3 +279,11 @@ The extension is intended for lawful personal use. You are responsible for how d
 ## Disclaimer
 
 Video Downloader for X is an independent project and is not affiliated with, sponsored by, or endorsed by X Corp.
+
+## Download
+
+The easiest way to install **Video Downloader for X** is through the Chrome Web Store:
+
+[**Install Video Downloader for X from the Chrome Web Store**](https://chromewebstore.google.com/detail/video-downloader-for-x/llhkbkbfmgdoooejkkgmbidlfbijbgoj)
+
+Chrome handles the installation automatically, and future updates are delivered through the Chrome Web Store.
